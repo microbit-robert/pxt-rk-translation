@@ -1,0 +1,5 @@
+{
+  "custom": "FR - Custom blocks",
+  "custom.square": "FR - Returns square of a number",
+  "custom.square|param|value": "FR - any number"
+}

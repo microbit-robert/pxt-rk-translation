@@ -1,0 +1,5 @@
+{
+  "custom": "Custom blocks",
+  "custom.square": "Returns square of a number",
+  "custom.square|param|value": "any number"
+}

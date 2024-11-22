@@ -1,0 +1,6 @@
+{
+  "custom.square|block": "square",
+  "custom|block": "custom",
+  "{id:category}Custom": "Custom",
+  "{id:group}micro:bit (V2)": "micro:bit (V2)"
+}
