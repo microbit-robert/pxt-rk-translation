@@ -1,4 +1,5 @@
 {
+  "custom.randomNumber|block": "FR - random number",
   "custom.square|block": "FR - square",
   "custom|block": "FR - custom",
   "{id:category}Custom": "FR - Custom",

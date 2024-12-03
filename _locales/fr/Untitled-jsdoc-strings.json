@@ -1,5 +1,6 @@
 {
   "custom": "FR - Custom blocks",
+  "custom.randomNumber": "FR - Returns a random number",
   "custom.square": "FR - Returns square of a number",
   "custom.square|param|value": "FR - any number"
 }
