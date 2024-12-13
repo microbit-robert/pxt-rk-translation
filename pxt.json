@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "machine-learning": "github:microbit-foundation/pxt-microbit-ml#v1.0.2"
     },
     "files": [
         "main.blocks",
