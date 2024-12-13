@@ -1,29 +1,29 @@
 {
-  "name": "Untitled",
-  "version": "0.0.4",
-  "description": "",
-  "dependencies": {
-    "core": "*",
-    "radio": "*",
-    "microphone": "*"
-  },
-  "files": [
-    "main.blocks",
-    "main.ts",
-    "README.md",
-    "custom.ts",
-    "event.ts",
-    "docs/square.md",
-    "_locales/fr/Untitled-jsdoc-strings.json",
-    "_locales/fr/Untitled-strings.json",
-    "_locales/fr/README.md"
-  ],
-  "targetVersions": {
-    "branch": "v7.0.51",
-    "tag": "v7.0.51",
-    "commits": "https://github.com/microsoft/pxt-microbit/commits/c3819f016bd720d0eb86efea9a84dcd4fc7b2e1f",
-    "target": "7.0.51",
-    "pxt": "11.1.5"
-  },
-  "preferredEditor": "tsprj"
+    "name": "Untitled",
+    "version": "0.0.5",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts",
+        "event.ts",
+        "docs/square.md",
+        "_locales/fr/Untitled-jsdoc-strings.json",
+        "_locales/fr/Untitled-strings.json",
+        "_locales/fr/README.md"
+    ],
+    "targetVersions": {
+        "branch": "v7.0.51",
+        "tag": "v7.0.51",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/c3819f016bd720d0eb86efea9a84dcd4fc7b2e1f",
+        "target": "7.0.51",
+        "pxt": "11.1.5"
+    },
+    "preferredEditor": "tsprj"
 }
